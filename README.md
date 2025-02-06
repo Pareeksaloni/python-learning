@@ -1,5 +1,5 @@
 # python-learning
-# fuction
+# function
 # while loop
 # for
 ## if-else
